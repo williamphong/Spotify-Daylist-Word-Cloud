@@ -10,7 +10,9 @@ python3 -m venv env
 source env/bin/activate
 
 pip install spotipy
-pip install gspread google-auth
+pip install gspread google-auth oauth2client
+pip install configparser
+
 ```
 
 ## Setup
