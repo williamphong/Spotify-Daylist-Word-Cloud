@@ -3,6 +3,9 @@
 ## UPDATE
 Spotify has killed this project with the changes to their api limiting the amount of data provided to developers
 
+our last group wordcloud collected from 8 friends over 8 months
+![wordcloud](/wordcloud.png)
+
 ## Installation
 This program requires Python3, spotipy, and gpsread. 
 A virtual environment is recommended to prevent risk of breaking your Python installation or OS
