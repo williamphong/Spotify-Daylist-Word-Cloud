@@ -1,5 +1,8 @@
 # Spotify Daylist Word Cloud
 
+## UPDATE
+Spotify has killed this project with the changes to their api limiting the amount of data provided to developers
+
 ## Installation
 This program requires Python3, spotipy, and gpsread. 
 A virtual environment is recommended to prevent risk of breaking your Python installation or OS
